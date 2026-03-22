@@ -5,7 +5,7 @@
 
 Name:		libacars
 Version:	2.2.1
-Release:	1
+Release:	2
 Summary:	A library for decoding various ACARS message payloads
 License:	MIT
 Group:		System/Libraries
